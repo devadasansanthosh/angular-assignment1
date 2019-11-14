@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular 5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "id": 2,
+      "title": "Java training",
+      "text": "attend at 11 am"
+    },
+    {
+      "id": 3,
+      "title": "Angular Assignment",
+      "text": "start at 4 pm"
+    },
+    {
+      "title": "An",
+      "text": "test",
+      "id": 4
+    },
+    {
+      "title": "Spring Tutorials",
+      "text": "have to start",
+      "id": 5
+    },
+    {
+      "title": "java 8 training",
+      "text": "monday 7.30",
+      "id": 6
+    },
+    {
+      "title": "Python",
+      "text": "python test",
+      "id": 7
+    },
+    {
+      "title": " Python ",
+      "text": "test",
+      "id": 8
+    },
+    {
+      "title": "test",
+      "text": "test",
+      "id": 9
+    }
+  ]
+}
